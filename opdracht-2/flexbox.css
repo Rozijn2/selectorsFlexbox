@@ -13,33 +13,15 @@
     justify-content: space-between;
 }
 
-#divvy1 {
-    background-color: bisque;
-}
-
-#divvy2 {
-    background-color: aqua;
-}
-
 .three {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
 }
 
 #innerlist li{
-    background-color: bisque;
     display: inline;
     margin-right: 80px;
-
-
-
-}
-
-#hubby {
-    background-color: aqua;
-
 }
 
 .four {
@@ -58,15 +40,11 @@ form {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-
-
-
-
 }
+
 article {
    flex-basis: 200px;
    flex-grow: 1;
-
 }
 
 
